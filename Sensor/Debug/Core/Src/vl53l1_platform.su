@@ -1,0 +1,11 @@
+../Core/Src/vl53l1_platform.c:49:10:_GetTof	24	static
+../Core/Src/vl53l1_platform.c:60:5:_I2CWrite	40	static
+../Core/Src/vl53l1_platform.c:68:5:_I2CRead	40	static
+../Core/Src/vl53l1_platform.c:76:8:VL53L1_WriteMulti	32	static
+../Core/Src/vl53l1_platform.c:92:8:VL53L1_ReadMulti	32	static
+../Core/Src/vl53l1_platform.c:111:8:VL53L1_WrByte	24	static
+../Core/Src/vl53l1_platform.c:125:8:VL53L1_WrWord	24	static
+../Core/Src/vl53l1_platform.c:142:8:VL53L1_WrDWord	24	static
+../Core/Src/vl53l1_platform.c:160:8:VL53L1_RdByte	24	static
+../Core/Src/vl53l1_platform.c:181:8:VL53L1_RdWord	24	static
+../Core/Src/vl53l1_platform.c:203:8:VL53L1_RdDWord	24	static

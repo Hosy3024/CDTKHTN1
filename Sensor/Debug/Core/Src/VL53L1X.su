@@ -1,0 +1,7 @@
+../Core/Src/VL53L1X.c:13:5:TOF_InitStruct	32	static
+../Core/Src/VL53L1X.c:39:6:TOF_TurnOn	16	static
+../Core/Src/VL53L1X.c:44:6:TOF_TurnOff	16	static
+../Core/Src/VL53L1X.c:49:5:TOF_BootMultipleSensors	24	static
+../Core/Src/VL53L1X.c:64:5:TOF_BootSensor	24	static
+../Core/Src/VL53L1X.c:120:10:TOF_GetDistance	24	static
+../Core/Src/VL53L1X.c:131:6:TOF_SetLogFunction	16	static
